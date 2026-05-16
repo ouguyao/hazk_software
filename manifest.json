@@ -1,6 +1,6 @@
 {
-    "version": "1.4",
-    "changelog": "5172",
+    "version": "2.0",
+    "changelog": "517首次正式推送测试",
     "files": {
         "D3Dcompiler_47.dll": {
             "md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
@@ -10,9 +10,6 @@
         },
         "opengl32sw.dll": {
             "md5": "83bbecf92fb68795a620b395998b131b"
-        },
-        "output.exe": {
-            "md5": "801a642fefbbcab8a97d32c3ba2d7238"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
@@ -43,9 +40,6 @@
         },
         "Qt6Quick.dll": {
             "md5": "6af0b82c0052838736a500540aadffa2"
-        },
-        "Qt6Quick3DUtils.dll": {
-            "md5": "241144238cb962d2d0b3fc71bc5de843"
         },
         "Qt6QuickControls2.dll": {
             "md5": "a429e69dd7016d2ad7fbc7d050241d55"
@@ -107,11 +101,17 @@
         "Qt6Svg.dll": {
             "md5": "59c7208364b05ea7452ff04c8ee2068f"
         },
-        "Qt6VirtualKeyboard.dll": {
-            "md5": "4ce33168c82def0224400be2bcfe846a"
+        "unins000.dat": {
+            "md5": "6f3f5234dcdd1e1e1b79892eecc1005f"
         },
-        "README.md": {
-            "md5": "d0b4a391e07569a45832c9cdaced7e77"
+        "unins000.exe": {
+            "md5": "c045ff3ce16879e6427740b7c0b9c8fa"
+        },
+        "updater.exe": {
+            "md5": "34440126b9d33c8c8b3b9fdb5dd80165"
+        },
+        "ZMQ视频流接收工具.exe": {
+            "md5": "17efea1a78cef20a27de98a154db2832"
         },
         "generic/qtuiotouchplugin.dll": {
             "md5": "47787f4fb342febf8f0d13833138d649"
@@ -148,9 +148,6 @@
         },
         "networkinformation/qnetworklistmanager.dll": {
             "md5": "532420c6901657cb529afb2afc0d74ff"
-        },
-        "platforminputcontexts/qtvirtualkeyboardplugin.dll": {
-            "md5": "06fab39a94ad6f8b3fc881a2e1f580e5"
         },
         "platforms/qwindows.dll": {
             "md5": "5e0a635ac38ccf7a3ab5899e08eb4882"
@@ -4003,9 +4000,6 @@
         },
         "qmltooling/qmldbg_profiler.dll": {
             "md5": "565900fed4d187cd89e199c1a9140e03"
-        },
-        "qmltooling/qmldbg_quick3dprofiler.dll": {
-            "md5": "ba77a4612be50c73374e2005d19f68e1"
         },
         "qmltooling/qmldbg_quickprofiler.dll": {
             "md5": "6aa1f87d842cba9f02ec8b85b2c142ae"
