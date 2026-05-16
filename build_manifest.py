@@ -11,7 +11,7 @@ def calculate_md5(file_path):
     return hash_md5.hexdigest()
 
 def generate_manifest():
-    print("=== HAZK 自动打包与 MD5 生成工具 ===")
+    print("=== HAZK 自动打包与 MD5 生成工具 (V2 净化版) ===")
     version = input("请输入新版本号 (例如 1.0.1): ")
     changelog = input("请输入更新日志: ")
 
@@ -23,8 +23,12 @@ def generate_manifest():
 
     # 遍历当前文件夹下的所有文件
     for root, dirs, files in os.walk("."):
+        
+        # 【核心修复】：强制从遍历目录中剔除所有以点开头的隐藏文件夹（如 .git, .vscode, .update_temp）
+        dirs[:] = [d for d in dirs if not d.startswith('.')]
+
         for file in files:
-            # 忽略脚本自身、已经生成的 json、以及隐藏文件
+            # 忽略脚本自身、生成的 json、以及隐藏文件
             if file in ["build_manifest.py", "manifest.json"] or file.startswith('.'):
                 continue
 
@@ -41,8 +45,8 @@ def generate_manifest():
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✅ manifest.json 生成成功！共扫描 {len(manifest['files'])} 个文件。")
-    print("现在你可以把这个文件夹里的所有东西推送到 GitHub 了！")
+    print(f"\n✅ manifest.json 生成成功！共纯净扫描 {len(manifest['files'])} 个文件。")
+    print("注意：如果文件数量依然超过 1000，建议删掉 translations 文件夹里不需要的国外语言包。")
     input("按回车键退出...")
 
 if __name__ == "__main__":

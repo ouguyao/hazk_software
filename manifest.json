@@ -1,6 +1,6 @@
 {
-    "version": "1.3",
-    "changelog": "517",
+    "version": "1.4",
+    "changelog": "5172",
     "files": {
         "D3Dcompiler_47.dll": {
             "md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
@@ -112,90 +112,6 @@
         },
         "README.md": {
             "md5": "d0b4a391e07569a45832c9cdaced7e77"
-        },
-        ".git/config": {
-            "md5": "512fafa1a1029299fc9737adaeab561b"
-        },
-        ".git/description": {
-            "md5": "a0a7c3fff21f2aea3cfa1d0316dd816c"
-        },
-        ".git/HEAD": {
-            "md5": "cf7dd3ce51958c5f13fece957cc417fb"
-        },
-        ".git/index": {
-            "md5": "6827ffbb1f686d1b0f3c04edef42f038"
-        },
-        ".git/packed-refs": {
-            "md5": "4f57d708933a17fa624b080855d22b52"
-        },
-        ".git/hooks/applypatch-msg.sample": {
-            "md5": "ce562e08d8098926a3862fc6e7905199"
-        },
-        ".git/hooks/commit-msg.sample": {
-            "md5": "579a3c1e12a1e74a98169175fb913012"
-        },
-        ".git/hooks/fsmonitor-watchman.sample": {
-            "md5": "a0b2633a2c8e97501610bd3f73da66fc"
-        },
-        ".git/hooks/post-update.sample": {
-            "md5": "2b7ea5cee3c49ff53d41e00785eb974c"
-        },
-        ".git/hooks/pre-applypatch.sample": {
-            "md5": "054f9ffb8bfe04a599751cc757226dda"
-        },
-        ".git/hooks/pre-commit.sample": {
-            "md5": "5029bfab85b1c39281aa9697379ea444"
-        },
-        ".git/hooks/pre-merge-commit.sample": {
-            "md5": "39cb268e2a85d436b9eb6f47614c3cbc"
-        },
-        ".git/hooks/pre-push.sample": {
-            "md5": "2c642152299a94e05ea26eae11993b13"
-        },
-        ".git/hooks/pre-rebase.sample": {
-            "md5": "56e45f2bcbc8226d2b4200f7c46371bf"
-        },
-        ".git/hooks/pre-receive.sample": {
-            "md5": "2ad18ec82c20af7b5926ed9cea6aeedd"
-        },
-        ".git/hooks/prepare-commit-msg.sample": {
-            "md5": "2b5c047bdb474555e1787db32b2d2fc5"
-        },
-        ".git/hooks/push-to-checkout.sample": {
-            "md5": "c7ab00c7784efeadad3ae9b228d4b4db"
-        },
-        ".git/hooks/sendemail-validate.sample": {
-            "md5": "4d67df3a8d5c98cb8565c07e42be0b04"
-        },
-        ".git/hooks/update.sample": {
-            "md5": "647ae13c682f7827c22f5fc08a03674e"
-        },
-        ".git/info/exclude": {
-            "md5": "036208b4a1ab4a235d75c181e685e5a3"
-        },
-        ".git/logs/HEAD": {
-            "md5": "646a31ea8580a0d5a25244eb0b139e1a"
-        },
-        ".git/logs/refs/heads/main": {
-            "md5": "646a31ea8580a0d5a25244eb0b139e1a"
-        },
-        ".git/logs/refs/remotes/origin/HEAD": {
-            "md5": "646a31ea8580a0d5a25244eb0b139e1a"
-        },
-        ".git/objects/pack/pack-36a4e0aebce190eb97d20336dc872741c6aefbf4.idx": {
-            "md5": "470957a81510577a02489a1a000100f1"
-        },
-        ".git/objects/pack/pack-36a4e0aebce190eb97d20336dc872741c6aefbf4.pack": {
-            "md5": "6bd374ea3ebb5baa73e47fe37572c64f"
-        },
-        ".git/objects/pack/pack-36a4e0aebce190eb97d20336dc872741c6aefbf4.rev": {
-            "md5": "b510e5ae2295c1ee1a816b7427012a30"
-        },
-        ".git/refs/heads/main": {
-            "md5": "eef262dad66d9416508945b8c24a847f"
-        },
-        ".git/refs/remotes/origin/HEAD": {
-            "md5": "98b16e0b650190870f1b40bc8f4aec4e"
         },
         "generic/qtuiotouchplugin.dll": {
             "md5": "47787f4fb342febf8f0d13833138d649"
