@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
-    "changelog": "1.4.0版本更新",
+    "version": "1.4.1",
+    "changelog": "1.4.1版本更新",
     "files": {
         "D3Dcompiler_47.dll": {
             "md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
@@ -12,7 +12,7 @@
             "md5": "83bbecf92fb68795a620b395998b131b"
         },
         "output.exe": {
-            "md5": "9ce436dfc8738c447d71ebc30c85bdfc"
+            "md5": "f546dff16929064b636f7af7e8770bcc"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
@@ -105,7 +105,7 @@
             "md5": "59c7208364b05ea7452ff04c8ee2068f"
         },
         "updater.exe": {
-            "md5": "34440126b9d33c8c8b3b9fdb5dd80165"
+            "md5": "af98bcd995a022e45c71ea2f467100ef"
         },
         "generic/qtuiotouchplugin.dll": {
             "md5": "47787f4fb342febf8f0d13833138d649"
