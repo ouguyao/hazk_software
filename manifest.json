@@ -1,6 +1,6 @@
 {
-    "version": "1.9.0",
-    "changelog": "5181",
+    "version": "1.4.0",
+    "changelog": "1.4.0版本更新",
     "files": {
         "D3Dcompiler_47.dll": {
             "md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
@@ -12,7 +12,7 @@
             "md5": "83bbecf92fb68795a620b395998b131b"
         },
         "output.exe": {
-            "md5": "17efea1a78cef20a27de98a154db2832"
+            "md5": "9ce436dfc8738c447d71ebc30c85bdfc"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
@@ -104,12 +104,6 @@
         "Qt6Svg.dll": {
             "md5": "59c7208364b05ea7452ff04c8ee2068f"
         },
-        "unins000.dat": {
-            "md5": "6f3f5234dcdd1e1e1b79892eecc1005f"
-        },
-        "unins000.exe": {
-            "md5": "c045ff3ce16879e6427740b7c0b9c8fa"
-        },
         "updater.exe": {
             "md5": "34440126b9d33c8c8b3b9fdb5dd80165"
         },
@@ -122,9 +116,6 @@
         "imageformats/qgif.dll": {
             "md5": "c0f3a9ddd65ee38778e1a7e9a382403c"
         },
-        "imageformats/qicns.dll": {
-            "md5": "9b8175f81119ade6597f4346970b280d"
-        },
         "imageformats/qico.dll": {
             "md5": "33711dedf7020eff6004aad38ef5da46"
         },
@@ -133,18 +124,6 @@
         },
         "imageformats/qsvg.dll": {
             "md5": "744aa52ea41edd4b5798f90f5f3199a8"
-        },
-        "imageformats/qtga.dll": {
-            "md5": "81b1d0adc3137d3003112191ba2d4230"
-        },
-        "imageformats/qtiff.dll": {
-            "md5": "bdc8ab0962816999c920e8d4a54481ac"
-        },
-        "imageformats/qwbmp.dll": {
-            "md5": "2d5d041c25f43cd435ff7a9ec13f6967"
-        },
-        "imageformats/qwebp.dll": {
-            "md5": "b9d485febe48fbf60f3ad13b0eb0232d"
         },
         "networkinformation/qnetworklistmanager.dll": {
             "md5": "532420c6901657cb529afb2afc0d74ff"
