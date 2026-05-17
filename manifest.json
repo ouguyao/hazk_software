@@ -1,6 +1,6 @@
 {
-    "version": "1.5.0",
-    "changelog": "1、删除更新日志文本\n2、增加更新长文本提示弹窗功能\n3、更新Updater更新器",
+    "version": "1.6.0",
+    "changelog": "1、调整了添加IP弹窗的布局\n2、调整了软件启动更新提示文本布局\n3、删减了更新log日志文件相关代码\n4、提供updater.exe更新器的自动更新功能\n5、对软件窗口的最小尺寸进行了限制",
     "files": {
         "D3Dcompiler_47.dll": {
             "md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
@@ -12,7 +12,7 @@
             "md5": "83bbecf92fb68795a620b395998b131b"
         },
         "output.exe": {
-            "md5": "f0deab9ae60d1f64e0c26b3a5e380bf1"
+            "md5": "745a456e801b0e14ed02622962a9a9ec"
         },
         "Qt6Core.dll": {
             "md5": "8abf04d16570f8f1ac1f0164cb9affb0"
